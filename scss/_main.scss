@@ -1,0 +1,70 @@
+main{
+    width: 100vw;
+    
+    background-color:rgb(198, 216, 248) ;
+    
+    .card-body{
+        background-color: #d8d8c0;
+    }
+    
+    }
+    .img-fluid{
+       width: 100vw !important;
+    }
+
+    .imgproductor{
+        width: 50vw;
+        
+    }
+    .imagenapp{
+        width: 85vh;
+
+    
+    }
+    section{
+        p{
+            font-size: $fuente-lista*2 !important;
+            font-family: $roboto !important;
+        }
+        }
+        strong{ font-size: $fuente-lista*2 !important;
+            font-family: $roboto !important;
+
+        }
+    
+
+    ul{
+        li{
+            
+            font-size: $fuente-lista*2;
+            font-family: $roboto;
+            
+        }
+    }
+    p{
+        font-size: $fuente-lista*2 !important;
+        font-family: $roboto;
+    }
+ 
+
+    #imagenrapipago{
+        height: 235px;
+        width: 359px;
+    }
+
+    #imagenpagoefectivo{
+        height: 235px;
+        width: 359px;
+    }
+
+    #imagendebito{
+        height: 235px;
+        width: 359px;
+    }
+
+    #imagentarjetas{
+        height: 235px;
+        width: 359px;
+    }
+
+   
